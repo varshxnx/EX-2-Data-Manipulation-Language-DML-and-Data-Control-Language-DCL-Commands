@@ -69,7 +69,8 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 
 ### QUERY:
-![25q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/c099d342-5074-41a5-9a51-a2fdcf932f99)
+![5q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/1c496838-ee1d-4658-a1e1-53383e9f18cd)
+
 
 
 
@@ -82,7 +83,8 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 
 ### QUERY:
-![26q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/01537272-214d-40a6-9008-bfff7bf408c5)
+![6q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/b1a40d0a-f3c1-4270-bd12-7296c078c63c)
+
 
 
 ### OUTPUT:
@@ -94,7 +96,7 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 ### QUERY:
 
-![27q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/76077b8d-7867-4226-ade3-45fb137a5ad8)
+![7q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/6a159930-2aeb-4906-8163-bb4a2f1e23b7)
 
 
 ### OUTPUT:
@@ -106,7 +108,7 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 
 ### QUERY:
-![28q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/c5174310-49bc-4f8f-83e2-44a5f4178078)
+![8q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/3102f99d-eaae-4749-b2d9-26e4cb651a66)
 
 
 
@@ -118,7 +120,7 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 
 ### QUERY:
-![29q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/bce91145-573e-498d-8550-47ae8e4921a3)
+![9q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/ac2ca0e2-7002-4db0-a38f-0d7533466d08)
 
 
 ### OUTPUT:
@@ -130,7 +132,8 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 
 ### QUERY:
-![210q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/fa6dacdc-7cf8-4095-8d7b-9241d61aefc7)
+![10q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/6315d153-f6fe-4b6d-9985-9a290363e31e)
+
 
 
 
@@ -144,7 +147,7 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 ### QUERY:
 
-![211q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/a70917f8-ee40-43db-9d25-e9e1931a7ace)
+![11q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/2c0c89bd-e753-4401-a932-d7804c99beee)
 
 
 ### OUTPUT:
@@ -156,7 +159,7 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 
 ### QUERY:
-![212q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/0e81c628-c485-4384-9c74-943bfbf8f984)
+![12q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/db82b8b3-f7da-4de5-9c65-45d3143357ee)
 
 
 
@@ -167,7 +170,8 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 ### Q13) Find number of rows in the table EMP
 
 ### QUERY:
-![213q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/711dfc9c-5af8-4746-8643-c9ef5e837efc)
+![13q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/c39ad88e-0e1d-4a4f-8498-a25e37d6a505)
+
 
 
 ### OUTPUT:
@@ -178,7 +182,8 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 ### QUERY:
 
-![214q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/99eba8b6-a80a-49f2-9c93-7fdecb57eae1)
+![14q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/35e39092-21e8-438a-8494-d6426bd089e9)
+
 
 
 ### OUTPUT:
@@ -189,7 +194,8 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 ### Q15) List the jobs and number of employees in each job. The result should be in the descending order of the number of employees.
 
 ### QUERY:
-![215q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/148135db-b03e-43cd-b9dd-e62e2e5d533d)
+![15q](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/99f635cf-3d63-4247-91c9-fec19c232142)
+
 
 
 ### OUTPUT:
