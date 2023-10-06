@@ -175,7 +175,8 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 
 
 ### OUTPUT:
-![213o](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/b734f99f-6e4b-4d96-9202-562b26bae5e7)
+![image](https://github.com/varshxnx/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122253525/a65bc0b7-ee04-4166-b6ab-0c1f599a7184)
+
 
 
 ### Q14) Find maximum, minimum and average salary in EMP table.
